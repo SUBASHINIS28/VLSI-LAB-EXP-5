@@ -1,20 +1,18 @@
 # VLSI-LAB-EXP-5
 
-##EXP NO:
-DATE :
 
-##SIMULATION AND IMPLEMENTATION OF FINITE STATE MACHINE
+## SIMULATION AND IMPLEMENTATION OF FINITE STATE MACHINE
 
-##AIM:
+## AIM:
 
 To simulate and synthesis finite state machine using Xilinx ISE.
 
-##APPARATUS REQUIRED: 
+## APPARATUS REQUIRED: 
 
 Xilinx 14.7 
 Spartan6 FPGA
 
-##PROCEDURE: 
+## PROCEDURE: 
 
 STEP:1 Start the Xilinx navigator, Select and Name the New project.
 
@@ -45,7 +43,7 @@ Logic Diagram :
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-5/assets/6987778/34ec5d63-2b3b-4511-81ef-99f4572d5869)
 
 
-##VERILOG CODE:
+## VERILOG CODE:
 ```
 module fsm( clk, rst, inp, outp);
 input clk, rst, inp;
@@ -99,7 +97,7 @@ endmodule
 
 
 
-##RESULT:
+## RESULT:
 
 Hence the finite state machine has been simulated and synthesised using Vivado 2023.2
 
