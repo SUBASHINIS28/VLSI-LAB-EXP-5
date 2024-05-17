@@ -38,7 +38,7 @@ STEP:11 On the board, by giving required input, the LEDs starts to glow light, i
 
 STEP:12 Load the Bit file into the SPARTAN 6 FPGA 
 
-Logic Diagram :
+## Logic Diagram :
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-5/assets/6987778/34ec5d63-2b3b-4511-81ef-99f4572d5869)
 
