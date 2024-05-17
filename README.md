@@ -6,12 +6,12 @@ AIM:
 
 To simulate and synthesis finite state machine using Xilinx ISE.
 
-**APPARATUS REQUIRED: **
+APPARATUS REQUIRED: 
 
 Xilinx 14.7 
 Spartan6 FPGA
 
-**PROCEDURE: **
+PROCEDURE: 
 
 STEP:1 Start the Xilinx navigator, Select and Name the New project.
 
